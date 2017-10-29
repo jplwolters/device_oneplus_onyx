@@ -134,8 +134,8 @@ PRODUCT_PACKAGES += \
     OnyxDoze
 
 # OnyxParts
-PRODUCT_PACKAGES += \
-    OnyxParts
+# PRODUCT_PACKAGES += \
+#     OnyxParts
 
 # Bluetooth HAL
 PRODUCT_PACKAGES += \
